@@ -1,0 +1,14 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "E2E in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay Dutt",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.1.0"
+  }
+}
